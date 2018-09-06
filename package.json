@@ -1,0 +1,23 @@
+{
+  "name": "userstory",
+  "version": "1.0.0",
+  "description": "This is about userStory",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ayushisharma",
+  "license": "ISC",
+  "dependencies": {
+    "angular-route": "^1.7.2",
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.18.3",
+    "console": "^0.7.2",
+    "express": "^4.16.3",
+    "jsonwebtoken": "^8.3.0",
+    "module": "^1.2.5",
+    "mongoose": "^5.2.9",
+    "morgan": "^1.9.0",
+    "socket.io": "^2.1.1"
+  }
+}
